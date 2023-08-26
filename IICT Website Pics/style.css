@@ -16,7 +16,7 @@ height: 50px;
 width: 113px;
 }
 .logo{
-    background-image: url('amazon_logo.png');
+    background-image: url('amz_logo.png');
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -206,7 +206,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url('amazon_logo.png');
+    background-image: url('amz_logo.png');
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -214,4 +214,17 @@ ul a{
 .foot-panel4{
     background-color: #0f1111 ;
     color: white;
+    height: 100px;
+    font-size: 0.7rem;
+    text-align: center;
+    /* align-items: center;
+    justify-content: center;
+    display: flex; */
+}
+.pages{
+ 
+    padding-top: 25px;
+}
+.copyright{
+padding-top: 5px;
 }
